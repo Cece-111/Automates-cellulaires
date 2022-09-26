@@ -1,5 +1,3 @@
-﻿#Codé par Florian MEUNIER, Célian VIGNAUD et Thibault DE ANDRIA
-
 from tkinter import *
 
 def initialiseRegles(numRegle) :
